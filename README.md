@@ -8,10 +8,11 @@ A library management software where admin can add/view/delete librarian and libr
 Connect by Mysql if building issue occurs ,Get the latest Mysql Connector from https://docs.cs.cf.ac.uk/notes/accessing-mysql-with-java/. Alternatively you can download mysql connector and paste it in jre/lib/ext.
 
 #Some Screenshots:
-![l1](https://user-images.githubusercontent.com/72567005/129327896-427e10ca-0c5c-49a8-bf79-ad7d1814a1d4.PNG)
-![l2](https://user-images.githubusercontent.com/72567005/129327899-2e19a434-bfc8-451f-868c-0919e5bea7ce.PNG)
-![l3](https://user-images.githubusercontent.com/72567005/129327889-54c7ba64-2c03-40dd-8884-113a20c1bb07.PNG)
-![l4](https://user-images.githubusercontent.com/72567005/129327894-b0a6fd66-e54b-4981-9c46-61af81aeb232.PNG)
+<br>
+![l1](https://user-images.githubusercontent.com/72567005/129327896-427e10ca-0c5c-49a8-bf79-ad7d1814a1d4.PNG)<br>
+![l2](https://user-images.githubusercontent.com/72567005/129327899-2e19a434-bfc8-451f-868c-0919e5bea7ce.PNG)<br>
+![l3](https://user-images.githubusercontent.com/72567005/129327889-54c7ba64-2c03-40dd-8884-113a20c1bb07.PNG)<br>
+![l4](https://user-images.githubusercontent.com/72567005/129327894-b0a6fd66-e54b-4981-9c46-61af81aeb232.PNG)<br>
 
 #Cloning Repository:
 The recommended installation method is through Visual Studio Code, https://code.visualstudio.com/download
