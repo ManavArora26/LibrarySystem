@@ -1,11 +1,13 @@
 # LibrarySystem
 A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
+The main feature of This Library Management System Java is that all the books available in the library can be borrow by the students. and also the borrowed books by the students can return in the library. Additionally, the application effectively maintains the details of users/students to whom books have been issued; it also records the issued date and return date.
 
 #Setup Procedure
 1.setup all the indices from start, and change to alias later. Setup multiple indices in parallel. Only if all indexing done, change to alias. Monitor indexing of all doc, how many successful and failures. Depending all count of docs, change aliasing.
 
 #Usage
 Connect by Mysql if building issue occurs ,Get the latest Mysql Connector from https://docs.cs.cf.ac.uk/notes/accessing-mysql-with-java/. Alternatively you can download mysql connector and paste it in jre/lib/ext.
+
 
 #Some Screenshots:
 <br>
